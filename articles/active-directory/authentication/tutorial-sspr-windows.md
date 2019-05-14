@@ -128,7 +128,6 @@ If lock screen notifications are turned off, **Reset password** will not work.
 The following policy settings are known to interfere with the ability to reset passwords
 
    * HideFastUserSwitching is set to enabled or 1
-   * DontDisplayLastUserName is set to enabled or 1
    * NoLockScreen is set to enabled or 1
    * EnableLostMode is set on the device
    * Explorer.exe is replaced with a custom shell
